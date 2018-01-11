@@ -5,5 +5,5 @@ repositories {
 }
 
 dependencies {
-    // Additional dependencies
+    compileOnly "ninja.leaping.configurate:configurate-core:${configurate_version}"
 }
